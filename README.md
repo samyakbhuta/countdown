@@ -20,6 +20,12 @@
 
 	* ```countdown --hours 1.5``` or ```countdown -h 1.5``` outputs after 1.5 hours.
 
+	* Options aliases list (and tolerance to spelling mistakes)
+		* ms, mil, mils, mill, mills, milisecond, millisecond, miliseconds, milliseconds
+		* s, sec, secs, second, seconds,
+		* m, min, mins, minute, minutes
+		* h, hr, hrs, hour, hours
+
 * ```.countdownrc``` file should be consulted.
 
 * Support for installation.
