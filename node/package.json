@@ -4,7 +4,9 @@
   "description": "Command that counts down for the duration specified.",
   "homepage": "https://github.com/samyakbhuta/countdown",
   "main": "countdown.js",
-  "dependencies": {},
+  "dependencies": {
+    "optimist": "~0.6.0"
+  },
   "devDependencies": {
     "nexe": "~0.2.2"
   },
