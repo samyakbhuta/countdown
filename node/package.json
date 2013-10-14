@@ -1,0 +1,30 @@
+{
+  "name": "countdown-node",
+  "version": "0.0.1",
+  "description": "Command that counts down for the duration specified.",
+  "main": "countdown.js",
+  "dependencies": {},
+  "devDependencies": {
+    "nexe": "~0.2.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/samyakbhuta/countdown.git"
+  },
+  "keywords": [
+    "countdown",
+    "command",
+    "util",
+    "seconds",
+    "minutes",
+    "hours"
+  ],
+  "author": "Samyak Bhuta",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/samyakbhuta/countdown/issues"
+  }
+}
