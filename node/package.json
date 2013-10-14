@@ -1,6 +1,6 @@
 {
   "name": "countdown-node",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Command that counts down for the duration specified.",
   "homepage": "https://github.com/samyakbhuta/countdown",
   "main": "countdown.js",
