@@ -8,7 +8,7 @@
 
 	* ```countdown``` outputs immediately as there is no duration provided. Here the duration is taken to be 0.
 
-	* ```countdown --milliseconds 2000``` or ```countdown -ms 2000``` outputs after 2000 milliseconds.
+	* ```countdown --milliseconds 2000``` or ```countdown -k 2000``` outputs after 2000 milliseconds.
 
 	* ```countdown --seconds 20``` or ```countdown -s 20``` outputs after 20 seconds.
 
@@ -21,8 +21,8 @@
 	* ```countdown --hours 1.5``` or ```countdown -h 1.5``` outputs after 1.5 hours.
 
 	* Options aliases list (and tolerance to spelling mistakes)
-		* ms, mil, mils, mill, mills, milisecond, millisecond, miliseconds, milliseconds
-		* s, sec, secs, second, seconds,
+		* k, mil, mils, mill, mills, milisecond, millisecond, miliseconds, milliseconds
+		* s, sec, secs, second, seconds
 		* m, min, mins, minute, minutes
 		* h, hr, hrs, hour, hours
 
