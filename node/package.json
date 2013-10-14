@@ -27,5 +27,9 @@
   "license": "BSD",
   "bugs": {
     "url": "https://github.com/samyakbhuta/countdown/issues"
+  },
+  "preferGlobal": "true",
+  "bin": {
+    "countdown-node" : "countdown.js"
   }
 }
