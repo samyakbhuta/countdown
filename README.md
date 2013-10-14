@@ -4,15 +4,21 @@
 
 * ```countdown``` should refer to a specific binary and should not be a binary command. E.g. ```countdown``` may be aliased to ```countdown-node```.
 
-* ```countdown``` simply outputs ```Time is now!``` string immediately as there is no duration provided. Here the duration is taken to be 0.
+* Following all simply outputs ```Time is now!``` string.
 
-* ```countdown -s 2000```
+	* ```countdown``` outputs immediately as there is no duration provided. Here the duration is taken to be 0.
 
-* ```countdown -m 10```
+	* ```countdown --milliseconds 2000``` or ```countdown -ms 2000``` outputs after 2000 milliseconds.
 
-* ```countdown -h 2```
+	* ```countdown --seconds 20``` or ```countdown -s 20``` outputs after 20 seconds.
 
-* ```countdown -h 1.5```
+	* ```countdown --minutes 10``` or ```countdown -m 10.5``` outputs after 10 minutes.
+
+	* ```countdown --minutes 10.5``` or ```countdown -m 10``` outputs after 10.5 minutes.
+
+	* ```countdown --hours 2``` or ```countdown -h 2``` outputs after 2 hours.
+
+	* ```countdown --hours 1.5``` or ```countdown -h 1.5``` outputs after 1.5 hours.
 
 * ```.countdownrc``` file should be consulted.
 
