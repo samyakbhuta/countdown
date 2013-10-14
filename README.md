@@ -20,6 +20,8 @@
 
 	* ```countdown --hours 1.5``` or ```countdown -h 1.5``` outputs after 1.5 hours.
 
+	* ```countdown -m 2.5 -s 15``` outputs after 150+15 seconds. Various such combination should be possible.
+
 	* Options aliases list (and tolerance to spelling mistakes)
 		* k, mil, mils, mill, mills, milisecond, millisecond, miliseconds, milliseconds
 		* s, sec, secs, second, seconds
