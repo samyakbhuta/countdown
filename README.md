@@ -19,9 +19,9 @@
 
 	* ```countdown --seconds 20``` or ```countdown -s 20``` outputs after 20 seconds.
 
-	* ```countdown --minutes 10``` or ```countdown -m 10.5``` outputs after 10 minutes.
+	* ```countdown --minutes 10``` or ```countdown -m 10``` outputs after 10 minutes.
 
-	* ```countdown --minutes 10.5``` or ```countdown -m 10``` outputs after 10.5 minutes.
+	* ```countdown --minutes 10.5``` or ```countdown -m 10.5``` outputs after 10.5 minutes.
 
 	* ```countdown --hours 2``` or ```countdown -h 2``` outputs after 2 hours.
 
