@@ -2,7 +2,7 @@
 
 ### Specification
 
-* ```countdown``` should refer to a specific binary and should not be a binary command. E.g. ```countdown``` may be aliased to ```countdown-node```.
+* ```countdown``` should refer to a specific binary and should not be a binary command. E.g. ```countdown``` may be aliased to ```countdown-node``` to showcase the command implemented using Node runtime. Of course ```countdown-node``` can be used directly as well.
 
 * Following all simply outputs ```Time is now!``` string.
 
