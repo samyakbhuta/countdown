@@ -1,4 +1,4 @@
-```countdown``` command in all languages possible.
+```countdown``` command in all languages possible. It is an adventure in [chrestomathy](http://en.wikipedia.org/wiki/Chrestomathy).
 
 ### Specification
 
