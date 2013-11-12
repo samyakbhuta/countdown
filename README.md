@@ -46,4 +46,20 @@
 
 ### Aliasing
 
-* TODO : How to alias ?
+* Use ```alias``` to alias ```countdown``` to a specific implementation. E.g., following code aliases to a Node implementation.
+
+	```
+	alias countdown='countdown-node'
+	```
+
+* Use ```unalias``` to remove the alias.
+
+	```
+	unalias countdown
+	```
+
+* If you want to see which implementation the ```countdown``` is aliased to, use following command.
+
+	```
+	alias | grep 'countdown'
+	```
