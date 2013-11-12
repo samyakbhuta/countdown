@@ -4,6 +4,9 @@
 # TODO: More sophisticated approach for asserting the result need to be incorporated.
 
 Command="node countdown.js"
+# Other equvivalent alternative commands
+# Command="node ."
+# Command="countdown-node"
 
 echo '~~~~'
 echo 'TEST: Without any arguments. Should exit immediately'
