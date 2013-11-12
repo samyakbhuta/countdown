@@ -13,8 +13,8 @@ node.js specific implementation for ```countdown```.
 * ``` cd countdown/node ```
 * ``` npm install ``` to install required dependencies.
 * ``` node . ``` or ``` node countdown.js ``` to run the command.
-* ``` npm link ``` to install the package locally. This makes your changes reflect immediately.
-* if you have linked the module (using above step), you can also use ``` countdown-node ``` to invoke the command.
+* ``` npm link ``` to install the package locally. This makes your changes reflect immediately. Use ``` npm uninstall countdown-node -g ``` to unlink.
+* If you have linked the module (using above step), you can also use ``` countdown-node ``` to invoke the command.
 * Use ```./test.sh ``` to have a small test run. Fully automated testing is WIP.
 * [WIP] Optionally, ``` make ``` to create ``` countdown-node ``` binary using ```nexe```. 
 * ``` npm uninstall countdown-node -g ``` to unlink the module. Note, ```-g``` is important here.
@@ -31,7 +31,7 @@ node.js specific implementation for ```countdown```.
 
 * See usage and provide arguments as described in [specification](https://github.com/samyakbhuta/countdown#specification).
 
-### Caveats
+### Issues ?
 
-* Not any identified, yet.
+* See issue [tracker](https://github.com/samyakbhuta/countdown/issues) 
 
