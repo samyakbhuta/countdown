@@ -1,4 +1,11 @@
-```countdown``` command in all languages possible. It is an adventure in [chrestomathy](http://en.wikipedia.org/wiki/Chrestomathy).
+### Purpose
+
+```countdown``` command in all languages possible. It is an adventure in [chrestomathy](http://en.wikipedia.org/wiki/Chrestomathy). We seek to explore following.
+
+* How it is to write something useful in a particular language and not just 'Hello World'.
+
+* To have an opportunity to understand things that are woven around a particular language and make up important part of the overall developer expirience. This includes communities, libraries, package management, environment setup etc. Ideally entire expirience should be documented as well.
+
 
 ### Specification
 
