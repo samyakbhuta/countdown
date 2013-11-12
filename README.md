@@ -35,6 +35,9 @@
 		* m, min, mins, minute, minutes
 		* h, hr, hrs, hour, hours
 
+	* ```countdown --help``` displays the usage and exits.
+	* ```countdown --version``` displays the version and which implementation it is pointing to and exits.
+
 * ```.countdownrc``` file should be consulted.
 
 * Support for installation.
