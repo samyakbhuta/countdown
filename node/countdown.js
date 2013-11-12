@@ -62,4 +62,5 @@ var announce = function() {
     console.log('Time is now!');
 }
 
+// Performs the actual task of counting down.
 setTimeout(announce, duration);
